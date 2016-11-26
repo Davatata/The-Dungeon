@@ -159,10 +159,10 @@ end
 
 def get_doors(room)
   arr = []
-  arr.push("up") if room.rooms[:up] != nil
-  arr.push("down") if room.rooms[:down] != nil
-  arr.push("left") if room.rooms[:left] != nil
-  arr.push("right") if room.rooms[:right] != nil
+  arr.push("w") if room.rooms[:up] != nil
+  arr.push("s") if room.rooms[:down] != nil
+  arr.push("a") if room.rooms[:left] != nil
+  arr.push("d") if room.rooms[:right] != nil
   arr
 end
 
