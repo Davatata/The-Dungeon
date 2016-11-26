@@ -1,0 +1,4 @@
+Squire,25
+Peon,50
+Grunt,75
+Guard,100

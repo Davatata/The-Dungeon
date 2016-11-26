@@ -1,0 +1,4 @@
+Soldier,125
+Corporal,150
+Captain,175
+Boss,200

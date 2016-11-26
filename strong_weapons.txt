@@ -1,0 +1,3 @@
+Stone Spear,10,16
+Long Sword,17,10
+Great Sword,20,10

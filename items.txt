@@ -1,0 +1,3 @@
+Fortify Health(+25),25
+Fortify Weapon(+1),1
+Fortify Weapon(+2),2

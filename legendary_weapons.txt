@@ -1,0 +1,3 @@
+Fire Staff,2,30
+Frost Staff,2,30
+Infinity Sword,50,100

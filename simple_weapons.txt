@@ -1,0 +1,6 @@
+Stone Sword,10,10
+Stone Axe,10,12
+Stone Pike,10,15
+Metal Sword,12,12
+Metal Axe,12,14
+Metal Pike,12,17
