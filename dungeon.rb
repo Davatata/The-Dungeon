@@ -8,6 +8,7 @@ $strong_weapons =  File.open("strong_weapons.txt").to_a.map{|e| e.strip}
 $legendary_weapons =  File.open("legendary_weapons.txt").to_a.map{|e| e.strip}
 $items = File.open("items.txt").to_a.map{|e| e.strip}
 $potions = File.open("potions.txt").to_a.map{|e| e.strip}
+$repairs = File.open("repairs.txt").to_a.map{|e| e.strip}
 
 $number_of_rooms = 0
 $rooms_array = []

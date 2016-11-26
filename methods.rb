@@ -543,6 +543,11 @@ def get_command(room,player)
                 $current_room.inventory.push(make_item($items.sample))
                 puts "-- " + $current_room.inventory.last.name + " was dropped!"
               end
+              if roll_percent?(5)
+                $current_room.inventory.push(make_item($repairs.sample))
+                puts "-- " + $current_room.inventory.last.name + " was dropped!"
+              end
+              
               $current_room.inventory.push(make_item($potions.sample))
               display_room_contents($current_room)
 
