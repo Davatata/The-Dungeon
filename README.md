@@ -6,5 +6,5 @@
 <li>The player must kill all the enemies to win, or die trying.</li> 
 </ul>
 <p align="center">
-  <img src="./dungeon_img.png" width="350"/>
+  <img src="./dungeon_img.png" />
 </p>
